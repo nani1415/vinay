@@ -1,0 +1,22 @@
+centralised version control tool
+distributed version control tool
+git --version
+git status
+git add 
+git commit -m " "
+git diff
+git config --global user.username 
+git config --global user.email
+git config --list
+need help ---> git help config  / git config --help 
+mkdir nani
+cd nani
+git init
+test.txt
+git add test.txt
+git commit -m  "commiting file"
+git remote add origi 
+git push origin master
+git branch first_branch
+git checkout first_branch
+===================================================================================
